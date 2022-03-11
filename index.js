@@ -35,7 +35,7 @@ const NIGHTSCOUT_API_TOKEN = process.env.NIGHTSCOUT_API_TOKEN;
 /**
  * LibreLink Up API Settings (Don't change this unless you know what you are doing)
  */
-const API_URL = "api-eu.libreview.io"
+const API_URL = "api-fr.libreview.io"
 const USER_AGENT = "FreeStyle LibreLink Up Nightscout Uploader";
 const LIBRE_LINK_UP_VERSION = "4.1.1";
 const LIBRE_LINK_UP_PRODUCT = "llu.ios";
