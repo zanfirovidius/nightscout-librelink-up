@@ -27,6 +27,12 @@ const LINK_UP_PASSWORD = process.env.LINK_UP_PASSWORD;
 const LINK_UP_CONNECTION = process.env.LINK_UP_CONNECTION;
 
 /**
+ * Nightscout API
+ */
+const NIGHTSCOUT_URL =process.env.NIGHTSCOUT_URL;
+const NIGHTSCOUT_API_TOKEN = process.env.NIGHTSCOUT_API_TOKEN;
+
+/**
  * LibreLink Up API Settings (Don't change this unless you know what you are doing)
  */
 const API_URL = "api-fr.libreview.io"
